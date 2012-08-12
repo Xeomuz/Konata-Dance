@@ -1,0 +1,35 @@
+actor konata
+{
+  Height 40
+  Radius 20
+  scale 0.25
+  +SOLID
+  States
+  {
+  Spawn:
+    XXXX A 2
+    XXXX B 2 
+    XXXX C 2
+	XXXX D 2
+	XXXX E 2
+	XXXX F 2
+	XXXX G 2
+	XXXX H 2
+	XXXX I 2
+	XXXX J 2
+	XXXX K 2
+	XXXX L 2
+	XXXX M 2
+	XXXX N 2
+	XXXX O 2
+	XXXX P 2
+	XXXX Q 2
+	XXXX R 2
+	XXXX S 2
+	XXXX T 2
+	XXXX U 2
+	XXXX W 2
+	XXXX X 2
+    Loop
+  }
+  }
